@@ -1,7 +1,7 @@
 /*
  * Lab06.c
  *
- * Created: 10/18/2023 6:14:35 PM
+ * Created: 10/18/2023 6:34:42 PM
  * Author : Hayden Smith
  */ 
 
@@ -11,9 +11,9 @@
 int main(void)
 {
     /* Replace with your application code */
-    while (1) {
-		// this is my C code
+    while (1) 
+    {
+		//code
     }
-	return 0;
 }
 
